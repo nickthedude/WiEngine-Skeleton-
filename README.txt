@@ -1,0 +1,1 @@
+This is a bare bones skeleton which you should be able to run right out of the box in eclipse for WiEngine, i had a heck of a time getting the skeleton on the wiEngine site to run so I figured maybe this will help people get going.
